@@ -6,7 +6,6 @@
 As a junior data analyst for Cyclistic, a fictional bike-share company in Chicago, the goal is to analyze bike usage patterns to differentiate between annual members and casual riders. The insights will guide the marketing strategy to convert casual riders into annual members and improve overall company performance.
 
 # Data
-## Source Data
 The Cyclistic’s historical trip data from May 2021 to April 2022 is used to analyze and identify the market trends. \
 link to the dataset: https://divvy-tripdata.s3.amazonaws.com/index.html
 
